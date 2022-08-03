@@ -1,2 +1,3 @@
 # UNES-Projeto_curso
-Site desenvolvido em tabela
+Site desenvolvido em tabela, utilizando HTML.
+Universidade ficti .
